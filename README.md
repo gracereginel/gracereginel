@@ -3,8 +3,9 @@
 
 <h3 align="left">About Me</h3>
 
-  💻 ・ I'm a seventh-semester undergraduate student at Bina Nusantara University pursuing a major in Computer Science<br>
-  🌱 ・ I’m currently learning Kotlin, Springboot, AWS
+  💻 ・ I'm a eighth semester undergraduate student at Bina Nusantara University pursuing a major in Computer Science<br>
+  🌱 ・ I’m currently learning Kotlin, Springboot, AWS<br>
+  🏢 ・ Previously, I was at [@Traveloka](https://github.com/traveloka)
 
 <h3 align="left">Contact Me</h3>
   <p align="left">
