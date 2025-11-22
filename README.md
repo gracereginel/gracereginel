@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm Grace! 👋🏻 👩🏻‍💻 </h1>
-  <p align="left">A lifelong learner and highly motivated seventh-semester undergraduate student at Bina Nusantara University pursuing a major in Computer Science with a deep interest in learning about design and technology. 🎨 💻 </p>
+  <p align="left">A lifelong learner and highly motivated eighth-semester undergraduate student at Bina Nusantara University pursuing a major in Computer Science with a deep interest in learning about design and technology. 🎨 💻 </p>
 
 <h3 align="left">About Me</h3>
 
